@@ -1,3 +1,11 @@
-<h1>Streamlit Tutorial</h1>
+# Welcome to streamlit tutorial👋
 
-Everything you need to know about streamlit to build fast web apps using python
+### What is streamlit?
+Streamlit lets you transform Python scripts into interactive web apps in minutes, instead of weeks. Build dashboards, generate reports, or create chat apps
+
+### Installation:
+Open a terminal and run:
+
+~~~bash
+$ pip install streamlit
+~~~
